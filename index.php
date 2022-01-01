@@ -3,7 +3,7 @@
 ربات نوشته شده توسط دانیال ملک زاده (@JanPHP)دریافت اخبار در @Danial_Rbo
 */
 //------@mriven----//
-define('API_KEY','420983979:AAE_u9vOmozv9lUu62d27mE4bHzZIUQbYec');
+define('API_KEY','1611764844:AAG9epzhSHNUpnFGj0jbH8oPAtz-dTHSJ20');
 //-----@mriven-----//
 function bot($method,$datas=[]){
     $url = "https://api.telegram.org/bot".API_KEY."/".$method;
