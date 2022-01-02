@@ -7,9 +7,9 @@
 // ===== اگه مادرت برات محترمه منبع رو پاک نکن عزیزم ===== \\
 */
 //======= 𝓣𝓞𝓚𝓔𝓝 =========
-$API_KEY = "sidepath"; //Token
-$sudo = ["523853682", ""]; //Id Adadi Admins
-$channel = "sidepath";
+$API_KEY = "1611764844:AAG9epzhSHNUpnFGj0jbH8oPAtz-dTHSJ20"; //Token
+$sudo = ["1042446145"]; //Id Adadi Admins
+$channel = "bot-nazarsanji";
 $channel2 = "sidepath_gp"; 
 $channel3 = "sidepathstore"; 
 $botusername = '@golabinumbot';//user bot ba @
